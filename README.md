@@ -1,61 +1,94 @@
-# 👋 Hi, I'm Sam Mohammed!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Sam+Mohammed;Full+Stack+Developer;Linux+%26+Server+Expert" alt="Typing SVG" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/uidsam?style=social)](https://github.com/uidsam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://samserver.dev)
-[![Contact](https://img.shields.io/badge/Email-Contact-blue)](mailto:info@samserver.dev)
+<p align="center">
+  <a href="https://github.com/uidsam">
+    <img src="https://img.shields.io/github/followers/uidsam?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://samserver.dev">
+    <img src="https://img.shields.io/badge/Website-samserver.dev-blue" alt="Website">
+  </a>
+  <a href="mailto:info@samserver.dev">
+    <img src="https://img.shields.io/badge/Email-info%40samserver.dev-red" alt="Email">
+  </a>
+</p>
+
+### 🚀 About Me
+- 🧑‍💻 Linux OS and Server Management Expert
+- 💻 Full-Stack Developer specializing in **Node.js**, **JavaScript**, **Next.js**, and **Express.js**
+- 📊 Database Design & Management with **MySQL**
+- 🛠️ RESTful API Development
+- 🔧 Project Architecture & Development Strategy
+- 🎨 Frontend Development with **HTML**, **CSS**, and **Bootstrap**
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+### 💼 What I Do
+
+1. **Server Management**
+   - Linux server configuration and optimization
+   - High-availability setup
+   - Security hardening
+
+2. **Backend Development**
+   - Node.js and Express.js APIs
+   - Scalable architecture design
+   - Performance optimization
+
+3. **Frontend Development**
+   - Responsive web design
+   - Modern UI/UX implementation
+   - Cross-browser compatibility
+
+4. **Database Management**
+   - MySQL database design
+   - Query optimization
+   - Data modeling
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://samserver.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="mailto:info@samserver.dev">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🌟 About Me
-
-- 🧑‍💻 **Expertise in Linux OS and Server Management:** Proficient in hosting, server optimization, and security strategies.
-- 💻 **Full-Stack Developer:** Skilled in **Node.js**, **JavaScript**, **Next.js**, and **Express.js**.
-- 📊 **Database Design & Management:** Experienced with **MySQL**, database modeling, and optimization.
-- 🛠️ **RESTful API Expert:** Building scalable, secure APIs for modern web applications.
-- 🚀 **Project Strategist:** Specializing in project structure, development strategies, and end-to-end execution.
-- 🌐 **Frontend Skills:** Proficient in **HTML**, **CSS**, **Bootstrap**, and responsive design.
-
-## 🛠️ My Toolbox
-
-### **Programming & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **DevOps & Hosting**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=radical)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=uidsam.uidsam)
-
----
-
-## 🚀 What I Do
-
-1. **Server Management:** Configuring and managing Linux-based servers for high availability, performance, and security.
-2. **Backend Development:** Building robust APIs using Node.js and Express.js, with a focus on scalability.
-3. **Frontend Development:** Creating responsive designs using HTML, CSS, and Bootstrap.
-4. **Project Strategy:** Designing project architectures with clean and efficient structures.
-5. **Database Design:** Expertise in relational database modeling and management using MySQL.
-6. **Security:** Implementing best practices to ensure application and server security.
-
----
-
-✨ **Let’s collaborate or discuss your next project!** Reach out via email at [info@samserver.dev](mailto:info@samserver.dev). 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uidsam&color=blueviolet&style=flat-square" alt="Profile views">
+</p>
