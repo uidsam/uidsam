@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=00A9FF&center=true&vCenter=true&width=500&lines=❤️+Welcome+to+my+coding+space!;🌟+Creating+magic+with+code;🚀+Building+amazing+things;✨+Let's+create+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Welcome+to+my+coding+space!;+Creating+magic+with+code;+Building+amazing+things;+Let's+create+together!" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   
