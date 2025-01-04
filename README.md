@@ -35,7 +35,7 @@ const sam = {
 
 <div align="center">
 
-### 🌟 Frontend & Backend Magic
+### Frontend & Backend Magic
 ![JavaScript](https://img.shields.io/badge/✦-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00A9FF)
 ![Node.js](https://img.shields.io/badge/✦-Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00A9FF)
 ![Next.js](https://img.shields.io/badge/✦-Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=white&labelColor=00A9FF)
@@ -54,31 +54,31 @@ const sam = {
 
 </div>
 
-## ✨ GitHub Magic
+##  GitHub Magic
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=00A9FF&title_color=00A9FF&text_color=70a5fd" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00A9FF&text_color=70a5fd" />
 </div>
 
-## 🎪 Services
+##  Services
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/48/000000/server.png" width="48" height="48" alt="Server"/>
       <br /><strong>✧ Server Magic</strong>
-      <br />Making servers purr with happiness 🐱
+      <br />Making servers purr with happiness 
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/48/000000/api.png" width="48" height="48" alt="API"/>
       <br /><strong>✧ API Wizardry</strong>
-      <br />Crafting elegant digital bridges 🌈
+      <br />Crafting elegant digital bridges 
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/48/000000/database.png" width="48" height="48" alt="Database"/>
       <br /><strong>✧ Database Enchantment</strong>
-      <br />Data dancing in perfect harmony ✨
+      <br />Data dancing in perfect harmony 
     </td>
   </tr>
 </table>
