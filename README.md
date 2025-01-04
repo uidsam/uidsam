@@ -1,6 +1,16 @@
+
+
+<head>
+  <!-- Link to Google Fonts for cute font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Sam+Mohammed;Full+Stack+Developer;Linux+%26+Server+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Sam+Mohammed;Full+Stack+Developer;Linux+%26+Server+Expert" alt="Typing SVG" />
 </p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/uidsam">
