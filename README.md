@@ -92,3 +92,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uidsam&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=100&section=footer" />
+
+
+
+
+
+
