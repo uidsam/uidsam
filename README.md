@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/uidsam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Sam+Mohammed;Founder+%26+CEO+of+EasySoft.Dev;Visionary+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Visionary+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
