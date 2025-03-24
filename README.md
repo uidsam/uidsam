@@ -37,7 +37,7 @@
 
   <script>
     new Typed('.typing', {
-      strings: ["Full Stack Developer", "Linux & Server Expert", "Tech Enthusiast"],
+      strings: ["Full Stack Developer", "DevOps Engineer", "Founder & Tech Enthusiast"],
       typeSpeed: 80,
       backSpeed: 50,
       loop: true
@@ -51,7 +51,8 @@
   </p>
 
   <h2>🚀 About Me</h2>
-  <p>🧑‍💻 Linux & Server Management | 💻 Full Stack Dev | 🛠️ API Development</p>
+  <p>🧑‍💻 Full Stack Developer | 🔧 DevOps Engineer | 🏢 Founder & Architect</p>
+  <p>🚀 Building scalable applications, managing cloud infrastructure, and leading tech innovations.</p>
 
   <h2>💻 Tech Stack</h2>
   <p>
@@ -59,6 +60,9 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </p>
 
   <h2>📊 GitHub Stats</h2>
@@ -67,9 +71,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=radical">
   </p>
 
+  <h2>💼 What I Do</h2>
+  <ul>
+    <li><strong>Software Development:</strong> Scalable full-stack applications with modern technologies.</li>
+    <li><strong>DevOps & Cloud:</strong> CI/CD pipelines, containerization, cloud automation.</li>
+    <li><strong>Server & Infrastructure:</strong> Linux server management, high-availability setups.</li>
+    <li><strong>Leadership:</strong> Founder & technical strategist for innovative solutions.</li>
+  </ul>
+
   <h2>📫 Let's Connect</h2>
   <p>
     <a href="https://samserver.dev" class="btn" style="background:#28A745; color:white;">Portfolio</a>
     <a href="mailto:info@samserver.dev" class="btn" style="background:#D14836; color:white;">Email Me</a>
+    <a href="https://linkedin.com/in/uidsam" class="btn" style="background:#0077B5; color:white;">LinkedIn</a>
   </p>
 </body>
