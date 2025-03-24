@@ -1,14 +1,4 @@
-<!-- HEADER SECTION WITH ANIMATED SVG -->
-<div align="center">
-  <a href="https://github.com/uidsam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Sam+Mohammed;Founder+%26+CEO+of+EasySoft.Dev;Visionary+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- ANIMATED BANNER WITH 3D EFFECT -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+# Sam Mohammed
 
 <!-- ANIMATED SOCIAL BADGES -->
 <div align="center">
@@ -26,23 +16,24 @@
   </a>
 </div>
 
-<!-- ROTATING TEXT WITH MORE ROLES -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <a href="https://github.com/uidsam">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Sam+Mohammed;Founder+%26+CEO+of+EasySoft.Dev;Visionary+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+at+EasySoft.Dev;Node.js+%26+React.js+Expert;DevOps+Engineering+Specialist;Software+Architecture+Professional;API+Development+Maestro;Cloud+Infrastructure+Wizard;Enterprise+Solution+Architect" alt="Typing SVG" />
 </p>
 
-<!-- ANIMATED GIF SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<!-- ANIMATED TROPHY DISPLAY -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
-<!-- ANIMATED GIF SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- PROFESSIONAL SUMMARY WITH ANIMATION EFFECT -->
 <h2>
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Professional Summary</span>
@@ -54,10 +45,6 @@
 
 As the <span style="color:#FFFFFF;">**Founder & CEO of EasySoft.Dev**</span>, I lead an innovative team dedicated to revolutionizing software development. With deep expertise in the Node.js ecosystem and a passion for scalable architecture, I specialize in building high-performance applications that solve complex business challenges.
 
-<!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/wave.svg" width="100%">
-
-<!-- COMPANY SECTION WITH ANIMATION -->
 <h2>
   <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> EasySoft.Dev Leadership</span>
@@ -88,13 +75,11 @@ As the <span style="color:#FFFFFF;">**Founder & CEO of EasySoft.Dev**</span>, I 
   </tr>
 </table>
 
-<!-- ANIMATED TECH STACK SECTION -->
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Technical Arsenal</span>
 </h2>
 
-<!-- ANIMATED TECH ICONS WITH HOVER EFFECT -->
 <div align="center">
   <h3 style="color:#FFFFFF;">💻 Primary Tech Stack 💻</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,docker,kubernetes,nginx,git&perline=5" />
@@ -109,7 +94,6 @@ As the <span style="color:#FFFFFF;">**Founder & CEO of EasySoft.Dev**</span>, I 
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,terraform,bash,linux&perline=5" />
 </div>
 
-<!-- ANIMATED CODE SNIPPET -->
 <h2>
   <img src="https://media.giphy.com/media/3oKIPeKPxpZ953QBlK/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Node.js Mastery</span>
@@ -143,14 +127,13 @@ const nodejsMastery = {
 console.log('Need a scalable solution? Let\'s connect!');
 ```
 
-<!-- ANIMATED GITHUB STATS SECTION -->
 <h2>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> GitHub Statistics</span>
 </h2>
 
 <div align="center">
-  <!-- Replace with an alternative activity graph service or updated URL -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 <p align="center">
@@ -158,7 +141,6 @@ console.log('Need a scalable solution? Let\'s connect!');
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
 </p>
 
-<!-- NOTABLE PROJECTS WITH ANIMATIONS -->
 <h2>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Signature Projects</span>
@@ -209,13 +191,11 @@ console.log('Need a scalable solution? Let\'s connect!');
   </table>
 </div>
 
-<!-- PHILOSOPHY SECTION WITH ANIMATIONS -->
 <h2>
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Development Philosophy</span>
 </h2>
 
-<!-- ANIMATED TABS -->
 <details>
 <summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">💡 Technical Leadership Principles</summary>
 <br>
@@ -264,10 +244,10 @@ console.log('Need a scalable solution? Let\'s connect!');
 </ol>
 </details>
 
-<!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<!-- CONNECT WITH ME SECTION -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Let's Connect</span>
@@ -294,16 +274,6 @@ console.log('Need a scalable solution? Let\'s connect!');
   </a>
 </p>
 
-<!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
-
-<!-- ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github.com/uidsam/uidsam/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
