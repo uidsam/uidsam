@@ -1,88 +1,137 @@
-<head>
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-  <!-- Typing Animation -->
-  <script src="https://unpkg.com/typed.js@2.0.12"></script>
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      background-color: #0d1117;
-      color: #f0f0f0;
-      text-align: center;
-    }
-    .typing {
-      font-size: 24px;
-      font-weight: 600;
-    }
-    .btn {
-      display: inline-block;
-      padding: 10px 20px;
-      margin: 10px;
-      font-size: 18px;
-      border-radius: 8px;
-      transition: transform 0.3s;
-    }
-    .btn:hover {
-      transform: scale(1.1);
-    }
-    .glow {
-      text-shadow: 0 0 8px cyan;
-    }
-  </style>
-</head>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sam%20Mohammed&fontSize=60&fontColor=fff&fontAlignY=35&animation=fadeIn" />
+</p>
 
-<body>
-  <h1 class="glow">👋 Hi, I'm Sam Mohammed</h1>
-  <h2 class="typing"></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Sam+Mohammed;Full+Stack+Developer;Linux+%26+Server+Expert;Backend+Architect;API+Development+Specialist" alt="Typing SVG" />
+</p>
 
-  <script>
-    new Typed('.typing', {
-      strings: ["Full Stack Developer", "DevOps Engineer", "Founder & Tech Enthusiast"],
-      typeSpeed: 80,
-      backSpeed: 50,
-      loop: true
-    });
-  </script>
+<div align="center">
+  <a href="https://github.com/uidsam">
+    <img src="https://img.shields.io/github/followers/uidsam?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://samserver.dev">
+    <img src="https://img.shields.io/badge/Website-samserver.dev-blue" alt="Website">
+  </a>
+  <a href="mailto:info@samserver.dev">
+    <img src="https://img.shields.io/badge/Email-info%40samserver.dev-red" alt="Email">
+  </a>
+</div>
 
-  <p>
-    <a href="https://github.com/uidsam" class="btn" style="background:#181717; color:white;">Follow on GitHub</a>
-    <a href="https://samserver.dev" class="btn" style="background:#007BFF; color:white;">Visit Website</a>
-    <a href="mailto:info@samserver.dev" class="btn" style="background:#D14836; color:white;">Contact Me</a>
-  </p>
+<br>
 
-  <h2>🚀 About Me</h2>
-  <p>🧑‍💻 Full Stack Developer | 🔧 DevOps Engineer | 🏢 Founder & Architect</p>
-  <p>🚀 Building scalable applications, managing cloud infrastructure, and leading tech innovations.</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=algolia&no-frame=true&row=1&column=7" alt="Trophy" />
+</div>
 
-  <h2>💻 Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </p>
+<br>
 
-  <h2>📊 GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=radical">
-  </p>
+## <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> About Me 
 
-  <h2>💼 What I Do</h2>
-  <ul>
-    <li><strong>Software Development:</strong> Scalable full-stack applications with modern technologies.</li>
-    <li><strong>DevOps & Cloud:</strong> CI/CD pipelines, containerization, cloud automation.</li>
-    <li><strong>Server & Infrastructure:</strong> Linux server management, high-availability setups.</li>
-    <li><strong>Leadership:</strong> Founder & technical strategist for innovative solutions.</li>
-  </ul>
+> *Bridging the gap between server infrastructure and seamless user experiences*
 
-  <h2>📫 Let's Connect</h2>
-  <p>
-    <a href="https://samserver.dev" class="btn" style="background:#28A745; color:white;">Portfolio</a>
-    <a href="mailto:info@samserver.dev" class="btn" style="background:#D14836; color:white;">Email Me</a>
-    <a href="https://linkedin.com/in/uidsam" class="btn" style="background:#0077B5; color:white;">LinkedIn</a>
-  </p>
-</body>
+- 🧑‍💻 Linux OS and Server Management Expert
+- 💻 Full-Stack Developer specializing in **Node.js**, **JavaScript**, **Next.js**, and **Express.js**
+- 📊 Database Design & Management with **MySQL**
+- 🛠️ RESTful API Development
+- 🔧 Project Architecture & Development Strategy
+- 🎨 Frontend Development with **HTML**, **CSS**, and **Bootstrap**
+
+<br>
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" height="40"> Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,express,html,css,bootstrap,mysql,linux,docker,nginx&perline=6" />
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30"> GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=algolia&border_radius=20" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=algolia&border_radius=20" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&theme=algolia&layout=compact&border_radius=20" />
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> What I Do
+
+<details>
+<summary><b>🖥️ Server Management</b></summary>
+<br>
+<ul>
+  <li>Linux server configuration and hardening</li>
+  <li>High-availability infrastructure setup</li>
+  <li>Performance optimization and monitoring</li>
+  <li>Containerization with Docker</li>
+  <li>Nginx configuration for optimal web serving</li>
+</ul>
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<ul>
+  <li>RESTful API development with Node.js and Express</li>
+  <li>Microservices architecture design</li>
+  <li>Authentication and authorization systems</li>
+  <li>Real-time applications with WebSockets</li>
+  <li>Server-side performance optimization</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+<ul>
+  <li>Responsive web applications</li>
+  <li>Next.js for server-side rendering</li>
+  <li>Bootstrap for rapid UI development</li>
+  <li>Custom CSS animations and transitions</li>
+  <li>Cross-browser compatibility solutions</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🗄️ Database Management</b></summary>
+<br>
+<ul>
+  <li>MySQL database design and optimization</li>
+  <li>Data modeling for complex applications</li>
+  <li>Query optimization for performance</li>
+  <li>Database backup and recovery strategies</li>
+  <li>Data migration solutions</li>
+</ul>
+</details>
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="30"> Connect With Me
+
+<div align="center">
+  <a href="https://samserver.dev">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:info@samserver.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/uidsam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+</p>
