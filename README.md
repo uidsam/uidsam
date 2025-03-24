@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/github/followers/uidsam?label=Follow&style=social" alt="GitHub followers">
   </a>
   <a href="https://easysoft.dev">
-    <img src="https://img.shields.io/badge/Company-EasySoft.Dev-white?style=flat-square&logo=safari&logoColor=white" alt="Company">
+    <img src="https://img.shields.io/badge/Company-EasySoft.Dev-blue?style=flat-square&logo=safari&logoColor=white" alt="Company">
   </a>
   <a href="https://samserver.dev">
-    <img src="https://img.shields.io/badge/Portfolio-samserver.dev-white?style=flat-square&logo=react&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Portfolio-samserver.dev-blue?style=flat-square&logo=react&logoColor=white" alt="Website">
   </a>
   <a href="mailto:info@samserver.dev">
-    <img src="https://img.shields.io/badge/Email-info%40samserver.dev-white?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-info%40samserver.dev-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 <!-- ANIMATED TROPHY DISPLAY -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=nord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
 <!-- ANIMATED GIF SEPARATOR -->
@@ -44,29 +44,29 @@
 
 <!-- PROFESSIONAL SUMMARY WITH ANIMATION EFFECT -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/summary.gif" width="35">
-  <span> Professional Summary</span>
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Professional Summary</span>
 </h2>
 
 <p align="center">
-  <b><i>"Creating enterprise-grade software solutions that redefine industry standards"</i></b>
+  <b><i style="color:#FFFFFF;">"Creating enterprise-grade software solutions that redefine industry standards"</i></b>
 </p>
 
-As the **Founder & CEO of EasySoft.Dev**, I lead an innovative team dedicated to revolutionizing software development. With deep expertise in the Node.js ecosystem and a passion for scalable architecture, I specialize in building high-performance applications that solve complex business challenges.
+As the <span style="color:#FFFFFF;">**Founder & CEO of EasySoft.Dev**</span>, I lead an innovative team dedicated to revolutionizing software development. With deep expertise in the Node.js ecosystem and a passion for scalable architecture, I specialize in building high-performance applications that solve complex business challenges.
 
 <!-- ANIMATED WAVE SEPARATOR -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/wave.svg" width="100%">
 
 <!-- COMPANY SECTION WITH ANIMATION -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/leadership.gif" width="35">
-  <span> EasySoft.Dev Leadership</span>
+  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> EasySoft.Dev Leadership</span>
 </h2>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Founder & CEO</h3>
+      <h3 align="center" style="color:#FFFFFF;">Founder & CEO</h3>
       <ul>
         <li>🚀 Founded EasySoft.Dev to deliver cutting-edge software solutions</li>
         <li>🌐 Established a global development team focused on excellence</li>
@@ -76,7 +76,7 @@ As the **Founder & CEO of EasySoft.Dev**, I lead an innovative team dedicated to
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">Technical Vision</h3>
+      <h3 align="center" style="color:#FFFFFF;">Technical Vision</h3>
       <ul>
         <li>🔮 Driving innovation through emerging technologies</li>
         <li>⚡ Implementing performance-first development strategies</li>
@@ -90,29 +90,29 @@ As the **Founder & CEO of EasySoft.Dev**, I lead an innovative team dedicated to
 
 <!-- ANIMATED TECH STACK SECTION -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/tech.gif" width="35">
-  <span> Technical Arsenal</span>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Technical Arsenal</span>
 </h2>
 
 <!-- ANIMATED TECH ICONS WITH HOVER EFFECT -->
 <div align="center">
-  <h3>💻 Primary Tech Stack 💻</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,docker,kubernetes,nginx,git&perline=5&theme=light" />
+  <h3 style="color:#FFFFFF;">💻 Primary Tech Stack 💻</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,docker,kubernetes,nginx,git&perline=5" />
 
-  <h3>🚀 Frontend Galaxy 🚀</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind,sass,html,css,bootstrap&perline=5&theme=light" />
+  <h3 style="color:#FFFFFF;">🚀 Frontend Galaxy 🚀</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind,sass,html,css,bootstrap&perline=5" />
 
-  <h3>⚙️ Backend Universe ⚙️</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,prisma,mongodb,mysql,postgres,redis&perline=5&theme=light" />
+  <h3 style="color:#FFFFFF;">⚙️ Backend Universe ⚙️</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,prisma,mongodb,mysql,postgres,redis&perline=5" />
   
-  <h3>🔧 DevOps Dimension 🔧</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,terraform,bash,linux&perline=5&theme=light" />
+  <h3 style="color:#FFFFFF;">🔧 DevOps Dimension 🔧</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,terraform,bash,linux&perline=5" />
 </div>
 
 <!-- ANIMATED CODE SNIPPET -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/code.gif" width="35">
-  <span> Node.js Mastery</span>
+  <img src="https://media.giphy.com/media/3oKIPeKPxpZ953QBlK/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Node.js Mastery</span>
 </h2>
 
 ```javascript
@@ -145,42 +145,42 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <!-- ANIMATED GITHUB STATS SECTION -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/stats.gif" width="35">
-  <span> GitHub Statistics</span>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> GitHub Statistics</span>
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=github-light&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=graywhite&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=graywhite&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
 </p>
 
 <!-- NOTABLE PROJECTS WITH ANIMATIONS -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/projects.gif" width="35">
-  <span> Signature Projects</span>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Signature Projects</span>
 </h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌟 Enterprise Solutions</h3>
+        <h3 align="center" style="color:#FFFFFF;">🌟 Enterprise Solutions</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=graywhite&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Enterprise-grade API platform processing 5M+ daily requests with 99.99% uptime, built with Node.js, Express, and MongoDB</strong></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🚀 Cloud Infrastructure</h3>
+        <h3 align="center" style="color:#FFFFFF;">🚀 Cloud Infrastructure</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=graywhite&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Scalable cloud platform with auto-scaling capabilities, containerized microservices, and real-time monitoring</strong></p>
         </div>
@@ -188,19 +188,19 @@ console.log('Need a scalable solution? Let\'s connect!');
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">💼 E-Commerce Platform</h3>
+        <h3 align="center" style="color:#FFFFFF;">💼 E-Commerce Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=graywhite&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>High-performance e-commerce solution with 65% faster page loads and 30% higher conversion rates</strong></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">📊 Analytics Dashboard</h3>
+        <h3 align="center" style="color:#FFFFFF;">📊 Analytics Dashboard</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=graywhite&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Real-time analytics platform processing terabytes of data with sub-second query response times</strong></p>
         </div>
@@ -211,13 +211,13 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <!-- PHILOSOPHY SECTION WITH ANIMATIONS -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/philosophy.gif" width="35">
-  <span> Development Philosophy</span>
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Development Philosophy</span>
 </h2>
 
 <!-- ANIMATED TABS -->
 <details>
-<summary style="font-size:18px; font-weight:bold; cursor:pointer;">💡 Technical Leadership Principles</summary>
+<summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">💡 Technical Leadership Principles</summary>
 <br>
 <ol>
   <li>Champion clean, maintainable code architecture as a non-negotiable standard</li>
@@ -229,7 +229,7 @@ console.log('Need a scalable solution? Let\'s connect!');
 </details>
 
 <details>
-<summary style="font-size:18px; font-weight:bold; cursor:pointer;">⚡ Innovation Approach</summary>
+<summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">⚡ Innovation Approach</summary>
 <br>
 <ol>
   <li>Encourage controlled experimentation with emerging technologies</li>
@@ -241,7 +241,7 @@ console.log('Need a scalable solution? Let\'s connect!');
 </details>
 
 <details>
-<summary style="font-size:18px; font-weight:bold; cursor:pointer;">🛡️ DevOps & Infrastructure Excellence</summary>
+<summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">🛡️ DevOps & Infrastructure Excellence</summary>
 <br>
 <ol>
   <li>Design infrastructure for horizontal and vertical scaling capabilities</li>
@@ -253,7 +253,7 @@ console.log('Need a scalable solution? Let\'s connect!');
 </details>
 
 <details>
-<summary style="font-size:18px; font-weight:bold; cursor:pointer;">🌐 Client Success Strategy</summary>
+<summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">🌐 Client Success Strategy</summary>
 <br>
 <ol>
   <li>Align technical solutions directly with business objectives</li>
@@ -269,34 +269,34 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <!-- CONNECT WITH ME SECTION -->
 <h2>
-  <img src="https://raw.githubusercontent.com/uidsam/uidsam/main/assets/gifs/connect.gif" width="35">
-  <span> Let's Connect</span>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  <span style="color:#FFFFFF;"> Let's Connect</span>
 </h2>
 
 <p align="center">
   <a href="https://easysoft.dev">
-    <img src="https://img.shields.io/badge/EasySoft.Dev-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Company"/>
+    <img src="https://img.shields.io/badge/EasySoft.Dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"/>
   </a>
   <a href="https://samserver.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:info@samserver.dev">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/uidsam">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/sammohammed">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/sammohammeddev">
-    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
 <!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=ffffff" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
 <!-- ANIMATED FOOTER -->
@@ -306,5 +306,5 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github.com/uidsam/uidsam/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/uidsam/uidsam/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
