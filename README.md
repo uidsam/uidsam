@@ -150,7 +150,8 @@ console.log('Need a scalable solution? Let\'s connect!');
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
+  <!-- Replace with an alternative activity graph service or updated URL -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 <p align="center">
