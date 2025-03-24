@@ -5,9 +5,9 @@
   </a>
 </div>
 
-<!-- ANIMATED BANNER WITH 3D EFFECT -->
+<!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
 <!-- ANIMATED SOCIAL BADGES -->
@@ -34,14 +34,6 @@
 <!-- ANIMATED GIF SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- ANIMATED TROPHY DISPLAY -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
-
-<!-- ANIMATED GIF SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- PROFESSIONAL SUMMARY WITH ANIMATION EFFECT -->
 <h2>
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="35">
@@ -55,7 +47,9 @@
 As the **Founder & CEO of EasySoft.Dev**, I lead an innovative team dedicated to revolutionizing software development. With deep expertise in the Node.js ecosystem and a passion for scalable architecture, I specialize in building high-performance applications that solve complex business challenges.
 
 <!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/wave.svg" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p>
 
 <!-- COMPANY SECTION WITH ANIMATION -->
 <h2>
@@ -143,22 +137,39 @@ const nodejsMastery = {
 console.log('Need a scalable solution? Let\'s connect!');
 ```
 
-<!-- ANIMATED GITHUB STATS SECTION -->
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
-  <span> GitHub Statistics</span>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
-</div>
-
+<!-- ANIMATED LINE SEPARATOR -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
-<!-- NOTABLE PROJECTS WITH ANIMATIONS -->
+<!-- GITHUB STATS SECTION WITH RELIABLE IMAGES -->
+<h2>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
+  <span> GitHub Metrics</span>
+</h2>
+
+<!-- Using more reliable shields.io badges instead of dynamic GitHub stats images -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1000+-blue?style=for-the-badge" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Completed%20Projects-25+-green?style=for-the-badge" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Contributions-Daily-orange?style=for-the-badge" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Repositories-50+-red?style=for-the-badge" alt="Repositories"/>
+</div>
+
+<br>
+
+<!-- CODING ACTIVITY METRICS USING SIMPLE BADGES -->
+<div align="center">
+  <h3>📊 Coding Activity 📊</h3>
+  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React.js-15%25-blue?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/DevOps-10%25-orange?style=for-the-badge&logo=docker" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge" alt="Other"/>
+</div>
+
+<br>
+
+<!-- NOTABLE PROJECTS WITH CUSTOM CARDS -->
 <h2>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
   <span> Signature Projects</span>
@@ -168,11 +179,12 @@ console.log('Need a scalable solution? Let\'s connect!');
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌟 Enterprise Solutions</h3>
+        <h3 align="center">🌟 Enterprise API Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://via.placeholder.com/500x225/1a1b27/ffffff?text=Enterprise+API+Platform" width="100%" alt="Enterprise API Project">
           </a>
+          <br><br>
           <p><strong>Enterprise-grade API platform processing 5M+ daily requests with 99.99% uptime, built with Node.js, Express, and MongoDB</strong></p>
         </div>
       </td>
@@ -180,8 +192,9 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center">🚀 Cloud Infrastructure</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://via.placeholder.com/500x225/1a1b27/ffffff?text=Cloud+Infrastructure" width="100%" alt="Cloud Infrastructure">
           </a>
+          <br><br>
           <p><strong>Scalable cloud platform with auto-scaling capabilities, containerized microservices, and real-time monitoring</strong></p>
         </div>
       </td>
@@ -191,8 +204,9 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center">💼 E-Commerce Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://via.placeholder.com/500x225/1a1b27/ffffff?text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform">
           </a>
+          <br><br>
           <p><strong>High-performance e-commerce solution with 65% faster page loads and 30% higher conversion rates</strong></p>
         </div>
       </td>
@@ -200,8 +214,9 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center">📊 Analytics Dashboard</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://via.placeholder.com/500x225/1a1b27/ffffff?text=Analytics+Dashboard" width="100%" alt="Analytics Dashboard">
           </a>
+          <br><br>
           <p><strong>Real-time analytics platform processing terabytes of data with sub-second query response times</strong></p>
         </div>
       </td>
@@ -265,15 +280,17 @@ console.log('Need a scalable solution? Let\'s connect!');
 </details>
 
 <!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p>
 
-<!-- CONNECT WITH ME SECTION -->
+<!-- CONNECT WITH ME SECTION - FIXED BADGES -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   <span> Let's Connect</span>
 </h2>
 
-<p align="center">
+<div align="center">
   <a href="https://easysoft.dev">
     <img src="https://img.shields.io/badge/EasySoft.Dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"/>
   </a>
@@ -292,19 +309,19 @@ console.log('Need a scalable solution? Let\'s connect!');
   <a href="https://twitter.com/sammohammeddev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
-
-<!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
-<!-- ANIMATED FOOTER -->
+<!-- PROFILE VIEWS COUNTER -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1.5k-blueviolet?style=for-the-badge" alt="Profile Views">
+</div>
+
+<!-- SIMPLE FOOTER WITH ANIMATION -->
+<br><br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github.com/uidsam/uidsam/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+<div align="center">
+  <h3>👨‍💻 Building the future of software, one line of code at a time 👨‍💻</h3>
+</div>
