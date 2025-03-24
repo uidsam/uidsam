@@ -141,26 +141,29 @@ const nodejsMastery = {
 
 // Call to action
 console.log('Need a scalable solution? Let\'s connect!');
-<!-- GITHUB STATS SECTION WITH FIXED IMAGES -->
+```
+
+<!-- ANIMATED GITHUB STATS SECTION -->
 <h2>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> GitHub Statistics</span>
 </h2>
+
 <div align="center">
-  <!-- Updated GitHub Activity Graph URL -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
+
 <p align="center">
-  <!-- Updated GitHub README Stats URL -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <!-- Updated GitHub Streak Stats URL -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
 </p>
+
 <!-- NOTABLE PROJECTS WITH ANIMATIONS -->
 <h2>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Signature Projects</span>
 </h2>
+
 <div align="center">
   <table>
     <tr>
@@ -168,8 +171,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">🌟 Enterprise Solutions</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <!-- Updated GitHub Repository Card URL -->
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Enterprise-grade API platform processing 5M+ daily requests with 99.99% uptime, built with Node.js, Express, and MongoDB</strong></p>
         </div>
@@ -178,8 +180,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">🚀 Cloud Infrastructure</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <!-- Updated GitHub Repository Card URL -->
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Scalable cloud platform with auto-scaling capabilities, containerized microservices, and real-time monitoring</strong></p>
         </div>
@@ -190,8 +191,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">💼 E-Commerce Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <!-- Updated GitHub Repository Card URL -->
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>High-performance e-commerce solution with 65% faster page loads and 30% higher conversion rates</strong></p>
         </div>
@@ -200,8 +200,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">📊 Analytics Dashboard</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <!-- Updated GitHub Repository Card URL -->
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Real-time analytics platform processing terabytes of data with sub-second query response times</strong></p>
         </div>
@@ -209,11 +208,13 @@ console.log('Need a scalable solution? Let\'s connect!');
     </tr>
   </table>
 </div>
+
 <!-- PHILOSOPHY SECTION WITH ANIMATIONS -->
 <h2>
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Development Philosophy</span>
 </h2>
+
 <!-- ANIMATED TABS -->
 <details>
 <summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">💡 Technical Leadership Principles</summary>
@@ -226,6 +227,7 @@ console.log('Need a scalable solution? Let\'s connect!');
   <li>Embrace automation to eliminate repetitive tasks and human error</li>
 </ol>
 </details>
+
 <details>
 <summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">⚡ Innovation Approach</summary>
 <br>
@@ -237,6 +239,7 @@ console.log('Need a scalable solution? Let\'s connect!');
   <li>Balance immediate business needs with long-term technological evolution</li>
 </ol>
 </details>
+
 <details>
 <summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">🛡️ DevOps & Infrastructure Excellence</summary>
 <br>
@@ -248,6 +251,7 @@ console.log('Need a scalable solution? Let\'s connect!');
   <li>Apply "infrastructure as code" principles across all environments</li>
 </ol>
 </details>
+
 <details>
 <summary style="font-size:18px; font-weight:bold; cursor:pointer; color:#FFFFFF;">🌐 Client Success Strategy</summary>
 <br>
@@ -259,15 +263,17 @@ console.log('Need a scalable solution? Let\'s connect!');
   <li>Deliver solutions that exceed performance expectations</li>
 </ol>
 </details>
+
 <!-- ANIMATED WAVE SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- CONNECT WITH ME SECTION - UPDATED BADGES -->
+
+<!-- CONNECT WITH ME SECTION -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   <span style="color:#FFFFFF;"> Let's Connect</span>
 </h2>
+
 <p align="center">
-  <!-- Updated badges with more reliable links -->
   <a href="https://easysoft.dev">
     <img src="https://img.shields.io/badge/EasySoft.Dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"/>
   </a>
@@ -287,17 +293,18 @@ console.log('Need a scalable solution? Let\'s connect!');
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
 <!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
-<!-- STATIC THANKS FOR VISITING MESSAGE -->
-<div align="center">
-  <h2 style="color:#FFFFFF;">Thanks for visiting my profile!</h2>
-  <p style="color:#FFFFFF; font-size:18px;">Let's build something amazing together.</p>
-</div>
-<!-- STATIC CONTRIBUTION INFO INSTEAD OF ANIMATED SNAKE -->
-<div align="center">
-  <p style="color:#FFFFFF; font-size:16px;">Check out my contributions and repositories to see my coding journey!</p>
-</div>
-```
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
+
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github.com/uidsam/uidsam/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
