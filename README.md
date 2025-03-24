@@ -151,7 +151,6 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <div align="center">
   <!-- Replace with an alternative activity graph service or updated URL -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 <p align="center">
@@ -297,7 +296,6 @@ console.log('Need a scalable solution? Let\'s connect!');
 
 <!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
 <!-- ANIMATED FOOTER -->
