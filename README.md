@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uidsam&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?uidsam=uidsam&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
 <h2>
@@ -136,11 +136,11 @@ console.log('Need a scalable solution? Let\'s connect!');
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?uidsam=uidsam&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?uidsam=uidsam&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
 </p>
 
@@ -156,7 +156,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">🌟 Enterprise Solutions</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?uidsam=uidsam&repo=enterprise-api&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Enterprise-grade API platform processing 5M+ daily requests with 99.99% uptime, built with Node.js, Express, and MongoDB</strong></p>
         </div>
@@ -165,7 +165,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">🚀 Cloud Infrastructure</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?uidsam=uidsam&repo=cloud-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Scalable cloud platform with auto-scaling capabilities, containerized microservices, and real-time monitoring</strong></p>
         </div>
@@ -176,7 +176,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">💼 E-Commerce Platform</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?uidsam=uidsam&repo=ecommerce-platform&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>High-performance e-commerce solution with 65% faster page loads and 30% higher conversion rates</strong></p>
         </div>
@@ -185,7 +185,7 @@ console.log('Need a scalable solution? Let\'s connect!');
         <h3 align="center" style="color:#FFFFFF;">📊 Analytics Dashboard</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?=uidsam&repo=analytics-dashboard&theme=radical&hide_border=true" alt="Project Card">
           </a>
           <p><strong>Real-time analytics platform processing terabytes of data with sub-second query response times</strong></p>
         </div>
@@ -278,5 +278,5 @@ console.log('Need a scalable solution? Let\'s connect!');
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?=uidsam&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
