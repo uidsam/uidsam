@@ -1,7 +1,7 @@
 <!-- HEADER SECTION WITH ENHANCED TYPOGRAPHY -->
 <div align="center">
   <a href="https://github.com/uidsam">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Sam+Mohammed+%F0%9F%9A%80;Digital+Architect+%26+Innovator;EasySoft.Dev+Visionary+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Sam+Mohammed;Digital+Architect+%26+Innovator;EasySoft.Dev+Visionary+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </div>
 
