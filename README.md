@@ -25,7 +25,6 @@
 
 <!-- FUTURISTIC PROFESSIONAL SUMMARY -->
 <h2>
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="40">
   <span style="color:#00FFFF;"> Quantum Code Architect</span>
 </h2>
 
