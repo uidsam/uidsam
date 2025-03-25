@@ -44,6 +44,26 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,kubernetes,aws,graphql,mongodb,git&perline=5" />
 </div>
 
+<!-- TECHNICAL ARSENAL & CORE TECHNOLOGIES -->
+<h2>
+  <img src="https://media.giphy.com/media/ZCSDh4rdMOz1RYh8kk/giphy.gif" width="40">
+  <span style="color:#00FFFF;"> Technical Arsenal 💻 Core Technologies 🚀</span>
+</h2>
+
+<div align="center">
+  <h3 style="color:#00F7FF;">🔬 Frontend Expertise 🌐</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,html,css,js,ts&perline=6" />
+  
+  <h3 style="color:#00F7FF;">⚙️ Backend Capabilities 🖥️</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,express,fastapi,java,spring,dotnet,php,laravel&perline=6" />
+  
+  <h3 style="color:#00F7FF;">🗃️ Databases & ORM 💾</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,prisma,graphql,redis,dynamodb&perline=5" />
+  
+  <h3 style="color:#00F7FF;">🚀 DevOps & Cloud Mastery ☁️</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,jenkins,github,gitlab,nginx,bash&perline=6" />
+</div>
+
 <!-- ULTRA-DYNAMIC CODE SNIPPET -->
 <h2>
   <img src="https://media.giphy.com/media/3oKIPeKPxpZ953QBlK/giphy.gif" width="35">
@@ -80,6 +100,25 @@ console.log('🌐 Ready to Redefine Possibilities');
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uidsam&show_icons=true&theme=radical&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uidsam&theme=radical&hide_border=true" />
   </p>
+</div>
+
+<!-- GITHUB JOURNEY & CONTRIBUTIONS -->
+<h2>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40">
+  <span style="color:#00FFFF;"> GitHub Odyssey 🌟 Code Chronicles 📖</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uidsam&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph" />
+  
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uidsam&theme=radical" alt="GitHub Profile Summary" />
+  </p>
+  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidsam&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uidsam&theme=radical" alt="WakaTime Stats" width="40%" />
+  </div>
 </div>
 
 <!-- CONNECT WITH FUTURISTIC DESIGN -->
