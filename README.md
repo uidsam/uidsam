@@ -23,10 +23,7 @@
   </a>
 </div>
 
-<!-- FUTURISTIC PROFESSIONAL SUMMARY -->
-<h2>
-  <span style="color:#00FFFF;"> Quantum Code Architect</span>
-</h2>
+
 
 <p align="center">
   <b><i style="color:#00FFFF;">"Transforming Digital Landscapes, One Pixel at a Time"</i></b>
